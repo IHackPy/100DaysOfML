@@ -5,7 +5,8 @@
 **Today's Progress** : I have setup Tensorflow but now I have to develope some skills to start work on project. So Siraj Tensorflow videos opting as refrence.
 
 **Thoughts** : Machine Learning is like 
-` You dive into the water, but you can't see how deep it is.
+
+> *You dive into the water, but you can't see how deep it is.*
 
 ## Day 1 : July 7 , 2018
 
