@@ -23,3 +23,8 @@
 
 **Today's Progress** : Mathematics used in Machine Learning Coursera . Learn about how Linear Algebra influences Machine Learning.
 
+
+
+## Day 4 : July 10 , 2018
+
+**Today's Progress** : First time I use PyTorch and working on Deep Learning. I used the docs available at the website. I did some exercise which is presented in the PyTorch Exercise Folder.
