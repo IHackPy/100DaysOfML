@@ -28,3 +28,13 @@
 ## Day 4 : July 10 , 2018
 
 **Today's Progress** : First time I use PyTorch and working on Deep Learning. I used the docs available at the website. I did some exercise which is presented in the PyTorch Exercise Folder.
+
+## Day 5 : July 11 , 2018
+
+**Today's Progress** : Read Research paper of Morse Code Datasets for Machine Learning(Looking Forward to work on this topic in future. [Research Paper link](https://nurture.ai/p/4a587115-6bbb-4ef9-b44c-96effcf467b2)
+
+## Day 6 : July 12 , 2018
+
+**Today's Progress** : Recently learning about Computational Linear Algebra will continue with it and do some small projects .
+
+Will be continue.....
