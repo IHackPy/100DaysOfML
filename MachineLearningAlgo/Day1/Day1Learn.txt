@@ -1,0 +1,5 @@
+Topic :
+
+1. Cross Validation 
+2. Confusion Matrix
+3. Sensitivity and Specificity
